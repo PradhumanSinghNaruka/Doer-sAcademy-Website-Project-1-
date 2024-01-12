@@ -11,4 +11,9 @@
 
 <h1 align="center">How to see a website</h1>
 <img src="firstpage.png">
+<img src="secondpage.png">
+<img src="thirdpage.png">
+<img src="fourthpage.png">
+<img src="fifthpage.png">
+<img src="phoneview.png">
 
