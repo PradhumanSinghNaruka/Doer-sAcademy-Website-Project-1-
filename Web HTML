@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Webpage Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <img src="psn.png" alt="psn.png" width="150px" length="70px">
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Subjects</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <div class="search">
+                <input class="srch" type="search" name="" placeholder="Type to text">
+                <a href="#"><button class="btn"> Search</button></a>
+            </div>
+        </div>
+        <div class="content">
+            <h1 style="font-size: 80px;">Study With <br><span style="color:black;font-size: 80px;">Devendra Sir</span></h1>
+            <h2 class="para" style="margin-top: 1em;font-size: 40px;" >Determined Of Executing Rightfully</h2>
+            <button class="cn" style="margin-top: 2em" ><a href="#">JOIN Us</a></button>
+            
+            <div class="form">
+                <h2>Login Here</h2>
+                <input type="email" name="email" placeholder="Enter Email Here">
+                <input type="passward" name="passwaed" placeholder="Enter Passward">
+                <button class="btn7"><a href="#"><h3>Login</h3></a></button>
+                
+                <p class="link" style="color:white;">Don't have an Account<br>
+                <a href="#">Sign Up</a> here </p>
+                <p class="liw">Log in With</p>
+            </div>
+            <div class="second" style="margin-top: 15em">
+                <h3 class="text">WHY DOER's ACADEMY ?</h3>
+                <h1 class="text1" style="margin-top: 1em">Making learning easier and <br><spam>more convenient for you.</spam></h1>
+            </div>
+            <div class="mainbox">
+                <div class="box" style="margin-top: 8em">
+                 <h2 style="text-align: center;margin-top: 0.5em;font-size: 30px;">MATHS<br><spam>Class-10</spam></h2>              
+                </div>
+                <div class="box1" style="margin-top: 8em">
+                <h2 style="text-align: center;margin-top: 0.5em;font-size: 30px;">MATHS<br><spam>Class-11</spam></h2>
+                </div>
+                <div class="box2" style="margin-top: 8em">
+                <h2 style="text-align: center;margin-top: 0.5em;font-size: 30px;">MATHS<br><spam>Class-12</spam></h2>
+                </div>
+            </div>
+            <div class="mainbox2">
+                <div class="boxs" style="margin-top: 8em">
+                 <h2 style="text-align: center;margin-top: 0.5em;font-size: 30px;">SCIENCE<br><spam>Class-10</spam></h2>              
+                </div>
+                <div class="boxs1" style="margin-top: 8em">
+                <h2 style="text-align: center;margin-top: 0.5em;font-size: 30px;">SCIENCE<br><spam>Class-11</spam></h2>
+                </div>
+                <div class="boxs2" style="margin-top: 8em">
+                <h2 style="text-align: center;margin-top: 0.5em;font-size: 30px;">SCIENCE<br><spam>Class-12</spam></h2>
+                </div>
+            </div>
+            <div class="known">
+                <h1 style="font-size: 60px;"><u>Meet your Instructor</u></h1>
+            </div>
+            <div class="img">
+                <img  style="border-radius: 50%;margin-top: 5em;width: 50%;"  src="devendra.png" alt="devendra.png">
+                <h1 style="margin-top: 0em">Devendra Singh Naruka</h1>
+                <h3 style="margin-top: 0.5em">Founder, DOER's Academy</h3>
+            </div>
+            <div>
+                <h1 style="font-size: 60px;"><u>Website Made By...</u></h1>
+            </div>
+            <div class="img2">
+                <img  style="border-radius: 50%;margin-top: 5em;width: 50%;"  src="pradhuman.png" alt="devendra.png">
+                <h1 style="margin-top: 0em">Pradhuman Singh Naruka</h1>
+                <h3 style="margin-top: 0.5em">B.Tech, AI&DS</h3>
+            </div>
+            <div>
+                <h1 style="color: rgb(6, 77, 53);font-size: 70px;text-align: center;">Recorded Videos</h1>
+            </div>
+            <iframe width="560" height="315" style="margin-top: 2em" src="https://www.youtube.com/embed/q8OQvDWnHkE?si=cahj86Z_61zmk8XA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/g45tGFRFOX4?si=PH1N89I5vgNd-k9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <div>
+                <h1 style="color: rgb(102, 36, 163);font-size: 70px;text-align: center;">Follow On..</h1>
+            </div>
+            <div class="icons" style="margin-top: 4em">
+                <a href="#" style="font-size: 60px;color: red;"><ion-icon name="logo-youtube"></ion-icon></a>
+                <a href="#" style="font-size: 60px;color: rgb(0, 132, 255);"><ion-icon name="logo-instagram"></ion-icon></a>
+                <a href="#" style="font-size: 60px;color: rgb(0, 60, 255);"><ion-icon name="logo-facebook"></ion-icon></a>
+                <a href="#" style="font-size: 60px;color: rgb(0, 47, 255);"><ion-icon name="logo-linkedin"></ion-icon></a>
+            </div>
+            <div class="end" style="margin-top: 4em;">
+                <ul><img src="psn.png" alt="psn.png" width="150px" length="70px" style="margin-top: 8em; margin-left: 5em;"></ul>
+                <ul class="end1">
+                    <li><h2>MENU</h2></li>
+                    <li><h3>Home</h3></li>
+                    <li><h3>Subjects</h3></li>
+                    <li><h3>About Us</h3></li>
+                    <li><h3>Contact</h3></li>
+                </ul>
+                <ul class="end2">
+                    <li><h2>SERVICES</h2></li>
+                    <li><h3>Privacy Policy</h3></li>
+                    <li><h3>Terms of uses</h3></li>
+                    <li><h3>Refund Policy</h3></li>
+                </ul>
+                <ul class="end3">
+                    <li><h2>GET IN TOUCH</h2></li>
+                    <li><h3>Email : support@doersacademy.in</h3></li>
+                </ul>
+                <hr>
+            </div>
+        </div>
+    </div>
+    <script class="icons1" src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body>
+</html>
