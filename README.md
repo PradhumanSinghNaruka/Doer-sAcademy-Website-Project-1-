@@ -15,5 +15,6 @@
 <img src="thirdpage.png">
 <img src="fourthpage.png">
 <img src="fifthpage.png">
-<img src="phoneview.png">
+<h1 align="center">Phone View of Website</h1>
+<img src="phoneview.png" class="center">
 
